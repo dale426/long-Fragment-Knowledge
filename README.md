@@ -6,3 +6,4 @@
 1. [JavaScript基础知识点](https://github.com/dale426/long-Fragment-Knowledge/issues/1)
 2. [Vue相关知识点](https://github.com/dale426/long-Fragment-Knowledge/issues/2)
 3. [移动端开发](https://github.com/dale426/long-Fragment-Knowledge/issues/3)
+4. [其他 git、http](https://github.com/dale426/long-Fragment-Knowledge/issues/4)
